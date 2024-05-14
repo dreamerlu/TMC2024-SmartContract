@@ -1,0 +1,9 @@
+{
+  "Capacity": 16,
+  "BucketSize": 2,
+  "MaxKicks": 5,
+  "VehRegDelay": 309.1,
+  "PkRegDelay": 350.1,
+  "TokenRegDelay": 407.2,
+  "VehRevDelay": 345.5
+}
